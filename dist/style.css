@@ -409,8 +409,8 @@ footer .copyright {
 }
 
 .social-media a:hover * {
-  background-color: #aa8fbd;
-  border-radius: 50%;
+  background-color: var(--btn-gradient);
+  border-radius: 20px;
 }
 /*----SMALL-HANDSET-STYLES--*/
 @media screen and (max-width: 619px) {
