@@ -305,6 +305,10 @@ nav ul li a {
 
 #portfolio {
   padding: 80px 40px;
+  background-image: url('Assets/BG/horizon.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
 }
 
 #portfolio h3 {
@@ -324,7 +328,7 @@ nav ul li a {
   align-self: center;
 }
 .projects a:hover {
-  background-color: rgba(12, 11, 54, 0.664);
+  background-color: rgba(131, 130, 172, 0.048);
   border-radius: 20px;
 }
 
